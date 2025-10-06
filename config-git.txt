@@ -1,0 +1,4 @@
+git config --global user.name abruzzisz
+git config --global user.email abruzzijulia69@gmail.com
+
+Ctrl + '
